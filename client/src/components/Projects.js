@@ -14,7 +14,7 @@ const Projects = () => {
       description: 'A comprehensive admin dashboard with data visualization capabilities. Features include real-time analytics, user management, and interactive charts. Built with React, Node.js, and MongoDB.',
       image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&h=800&q=80',
       technologies: ['React', 'Node.js', 'MongoDB', 'Express', 'Chart.js', 'Material-UI'],
-      github: 'https://github.com/yourusername/admin-viz-project',
+      github: 'https://github.com/nayaabahmedn1997/viz_project',
       demo: 'https://admin-viz-project-demo.com',
       category: 'fullstack'
     },
@@ -24,7 +24,7 @@ const Projects = () => {
       description: 'A real-time chat application inspired by Discord. Features include text channels, voice chat, user authentication, and server management. Built with React, Node.js, Socket.io, and MongoDB.',
       image: 'https://images.unsplash.com/photo-1614680376408-81e91ffe3db7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&h=800&q=80',
       technologies: ['React', 'Node.js', 'MongoDB', 'Socket.io', 'Redux', 'Material-UI'],
-      github: 'https://github.com/yourusername/discord-clone',
+      github: 'https://github.com/nayaabahmedn1997/discord_clone',
       demo: 'https://discord-clone-demo.com',
       category: 'fullstack'
     },
@@ -34,7 +34,7 @@ const Projects = () => {
       description: 'A full-featured e-commerce platform with product catalog, shopping cart, user authentication, and payment processing. Built with React, Node.js, Express, and MongoDB.',
       image: 'https://images.unsplash.com/photo-1557821552-17105176677c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&h=800&q=80',
       technologies: ['React', 'Node.js', 'MongoDB', 'Express', 'Redux', 'Stripe'],
-      github: 'https://github.com/yourusername/ecommerce-website',
+      github: 'https://github.com/nayaabahmedn1997/ecommerce',
       demo: 'https://ecommerce-website-demo.com',
       category: 'fullstack'
     }
