@@ -11,7 +11,8 @@
     "install-client": "cd client && npm install",
     "build": "cd client && npm run build",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm run install-client && npm run build",
-    "install": "npm run heroku-postbuild &&  npm install"
+    "render-postbuild": " npm run install-client && npm run build && cd ../",
+    "install": "npm run render-postbuild &&   npm install"
   },
   "keywords": ["portfolio", "mern", "react", "node", "express", "mongodb"],
   "author": "",
